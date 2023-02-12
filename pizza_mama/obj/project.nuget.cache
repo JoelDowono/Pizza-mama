@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HwNO8K6vexg+Eri5wUOMKsX0QShra8ZNZvLg5VHqL+Jx2rk7FuHbycgtgrBV3laAzF2HrGfKMdBs1oqgRBlVhQ==",
+  "dgSpecHash": "G0qFJHl8PG7fcuZr196LFCXMRbZcwAfzZrwnX3rhcmsmWONfFkA7h0nZWlRp4T+d401TnDv+NUX+i5acGR71vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joeld\\OneDrive\\Bureau\\Udemy\\Développeur C#  Formation complète 2023\\Mes codes\\pizza_mama\\pizza_mama\\pizza_mama.csproj",
+  "projectFilePath": "C:\\Users\\joeld\\OneDrive\\Bureau\\Udemy\\Développeur C#  Formation complète 2023\\Mes codes\\Pizza-mama\\pizza_mama\\pizza_mama.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joeld\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\joeld\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
